@@ -12,3 +12,6 @@ gitignore
 
 # Dependências (npm ignora automaticamente, mas por segurança)
 node_modules/
+
+# Incluir dist/ no pacote npm mesmo estando no .gitignore
+!dist/
