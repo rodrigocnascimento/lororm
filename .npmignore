@@ -1,0 +1,14 @@
+# Arquivos de desenvolvimento
+src/
+tsconfig.json
+exemplo.ts
+bun.lock
+
+# Documentação extra (README.md é mantido)
+documentation.md
+
+# Git
+gitignore
+
+# Dependências (npm ignora automaticamente, mas por segurança)
+node_modules/
