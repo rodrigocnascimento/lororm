@@ -1,6 +1,6 @@
 {
   "name": "@rodrigocnascimento/lororm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lord of Reactivity ORM. Um ORM felino, reativo e em memória que tem crise de identidade com um arquivo JSON.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
