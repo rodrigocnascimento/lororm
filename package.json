@@ -1,5 +1,5 @@
 {
-  "name": "lororm",
+  "name": "@rodrigocnascimento/lororm",
   "version": "1.0.0",
   "description": "Lord of Reactivity ORM. Um ORM felino, reativo e em memória que tem crise de identidade com um arquivo JSON.",
   "main": "./dist/index.js",
@@ -29,7 +29,6 @@
     "url": "https://github.com/rodrigocnasicmento/lororm/issues"
   },
   "homepage": "https://github.com/rodrigocnasicmento/lororm#readme",
-  "dependencies": {},
   "devDependencies": {
     "@types/node": "^25.7.0",
     "bun-types": "^1.3.13",
